@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeBreaker2021
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning Python,JS and ReactJS
-- 🌱 I know Block-based programming, HTML and CSS
+- 🌱 I’m currently learning Python and ReactJS
+- 🌱 I know Block-based programming, HTML and CSS and JS
 
 
 <!---
